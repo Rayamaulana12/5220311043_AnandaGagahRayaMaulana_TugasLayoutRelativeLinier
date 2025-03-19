@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="image_1" type="id" />
+    <item name="image_2" type="id" />
+    <item name="txt1" type="id" />
+    <item name="txt2" type="id" />
+    <item name="btnMasuk" type="id" />
+    <item name="btnDaftar" type="id" />
+</resources>
